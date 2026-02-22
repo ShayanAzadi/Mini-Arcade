@@ -58,11 +58,10 @@ The player with more points at the end wins.
 Classic snake game.  
 Avoid hitting yourself and try to eat the apples.
 
-### 7. XO
-Two-player turn-based game with atom and anti-atom themes.  
-You can choose different skins in the main menu.  
-The first player to connect three marks in a row (horizontal, vertical, or diagonal) wins.  
-If the game ends in a draw, a bomb randomly appears on one square. The player can click a square to change its icon.
+### 7. Space Cleaner
+Single-player game.  
+Use the left and right arrow keys to move the recycle bin.  
+Collect debris and avoid being hit by meteorites.
 
 ### 8. Little Powerful Bird
 Control the bird using the Space key and avoid obstacles.  
@@ -72,7 +71,7 @@ Collision ends the game.
 Two players control cars using the O and Q keys.  
 The first player to reach the finish line wins.
 
-### 10. Broken Cars
+### 10. Broken Car
 Controls: Q / O  
 One player attacks while the other defends.  
 If the cars collide, the attacker gains a point.  
