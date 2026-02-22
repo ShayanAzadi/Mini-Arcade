@@ -106,8 +106,6 @@ def red_hands():
     gameover = False
     xr = 0
     xb = 0
-    pg.mixer.music.play(-1)
-    pg.mixer.music.set_volume(0.1)
 
     while run0:
         for event in pg.event.get():
@@ -293,4 +291,5 @@ def red_hands():
             win.blit(lose_txt, d_lose)
             win.blit(home_button, (10, 10))
             pg.display.update()
+
     
