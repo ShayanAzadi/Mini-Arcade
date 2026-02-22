@@ -79,11 +79,27 @@ If the cars collide, the attacker gains a point.
 If the defender dodges, roles switch and the defender gains a point.  
 The first player to reach 10 points wins.
 
+### 11. Mench
+A classic Ludo board game.  
+Roll the dice and move your pieces across the board.  
+The first player to move all pieces to the finish area wins.  
+Simple controls with mouse interaction.
+
+### 12. Brick Hits
+A score-based brick-breaking game.  
+Break the bricks to earn points.  
+The game continues as long as the bricks do not reach the the bottom line.  
+Try to achieve the highest score possible.
+
 ---
 
 ## 🎵 Music Control
 
 - Press **P** to stop the music
+
+## 🔙 Exit to Main Menu
+
+To exit any mini game and return to the main menu, click the window close (X) button.
 
 ---
 
