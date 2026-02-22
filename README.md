@@ -97,6 +97,3 @@ The first player to reach 10 points wins.
 ## 👤 Author
 
 Developed by Shayan Azadi
-## 👤 Author
-
-Developed by Shayan Azadi
